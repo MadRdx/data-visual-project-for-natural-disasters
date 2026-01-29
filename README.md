@@ -1,5 +1,5 @@
 # DESCRIPTION
-This repository is a part of the CSE6242 Project for team-011. The purpose of this is to visualize and analyze natural disaster trends across the US. It integrates data obtained from NOAA and NRI metrics, and a few ML-based projections for 2025, to provide a better view of climate-risks. The project is targeted for general public and authorities to visualize natural disaster trends, and aid in decision making/policy drafting activities.
+The purpose of this is to visualize and analyze natural disaster trends across the US. It integrates data obtained from NOAA and NRI metrics, and a few ML-based projections for 2025, to provide a better view of climate-risks. The project is targeted for general public and authorities to visualize natural disaster trends, and aid in decision making/policy drafting activities.
 
 The application features a colored heat-map of all US states, allowing users to toggle between historic data and future predictions. Users can filter at event-level(hurricanes, storms, etc) and view state-wise and year-wise statistics. The dashboard has interactive charts that provide easier understanding of the impact of each disaster. Under the predictions drop-down, there is an integrated ChatBot API which provides context aware answer to questions around the predicted data and mitigation measures.
 
